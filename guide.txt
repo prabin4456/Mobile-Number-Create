@@ -1,3 +1,4 @@
+Install python3 app and enter code
 #1
 i=9800000000
 while i<9800010001:
